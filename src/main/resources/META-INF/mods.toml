@@ -2,7 +2,7 @@ modLoader="javafml"
 
 loaderVersion="[39,)"
 
-license="All rights reserved"
+license="All rights reserved."
 
 [[mods]]
 
@@ -16,7 +16,7 @@ authors="Kazuo, NewMax"
 
 description='''
 Welcome! Tensei Shitara Slime Datta Ken Mod.
-Support for the mod is only provided in this discord.
+Support for the mod is only provided in the discord.
 You can also share and play with your friends in our dedicated channels !
 '''
 
